@@ -62,7 +62,7 @@ fi
 # If Docker is available, use athenapdf to create PDF
 if [ "${BUILD_PDF}" != "false" ] && [ -n "$DOCKER_RUNNING" ]; then
   echo >&2 "Exporting PDF manuscript using Docker + Athena"
-  if [ "${CI:-}" = "true" ]; then
+  if [ "${CI,,}" = "true" ]; then
     # Incease --delay for CI builds to ensure the webpage fully renders, even when the CI server is under high load.
     # Local builds default to a shorter --delay to minimize runtime, assuming proper rendering is less crucial.
     MANUBOT_ATHENAPDF_DELAY="${MANUBOT_ATHENAPDF_DELAY:-5000}"
@@ -84,7 +84,7 @@ if [ "${BUILD_PDF}" != "false" ] && [ -n "$DOCKER_RUNNING" ]; then
 fi
 
 # Create DOCX output (if BUILD_DOCX environment variable equals "true")
-if [ "${BUILD_DOCX:-}" = "true" ]; then
+if [ "${BUILD_DOCX,,}" = "true" ]; then
   echo >&2 "Exporting Word Docx manuscript"
   pandoc --verbose \
     --data-dir="$PANDOC_DATA_DIR" \
@@ -93,7 +93,7 @@ if [ "${BUILD_DOCX:-}" = "true" ]; then
 fi
 
 # Create LaTeX output (if BUILD_LATEX environment variable equals "true")
-if [ "${BUILD_LATEX:-}" = "true" ]; then
+if [ "${BUILD_LATEX,,}" = "true" ]; then
   echo >&2 "Exporting LaTeX manuscript"
   pandoc \
     --data-dir="$PANDOC_DATA_DIR" \
@@ -102,7 +102,7 @@ if [ "${BUILD_LATEX:-}" = "true" ]; then
 fi
 
 # Spellcheck
-if [ "${SPELLCHECK:-}" = "true" ]; then
+if [ "${SPELLCHECK,,}" = "true" ]; then
   export ASPELL_CONF="add-extra-dicts $(pwd)/build/assets/custom-dictionary.txt; ignore-case true"
 
   # Identify and store spelling errors

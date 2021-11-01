@@ -1,4 +1,4 @@
-name: manubot_opinion
+name: manubot
 channels:
   - conda-forge
 dependencies:
