@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/9a448fe6edb477fb98065d5b83d206b1ca489cee/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/9a448fe6edb477fb98065d5b83d206b1ca489cee/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/9a448fe6edb477fb98065d5b83d206b1ca489cee/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/5359d3f6d1e5a0588b6f311158a628c1f74c3f62/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/5359d3f6d1e5a0588b6f311158a628c1f74c3f62/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/5359d3f6d1e5a0588b6f311158a628c1f74c3f62/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/9a448fe6edb477fb98065d5b83d206b1ca489cee/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/5359d3f6d1e5a0588b6f311158a628c1f74c3f62/))
 was automatically generated
-from [greenelab/disparities_opinion@9a448fe](https://github.com/greenelab/disparities_opinion/tree/9a448fe6edb477fb98065d5b83d206b1ca489cee)
+from [greenelab/disparities_opinion@5359d3f](https://github.com/greenelab/disparities_opinion/tree/5359d3f6d1e5a0588b6f311158a628c1f74c3f62)
 on November 1, 2021.
 </em></small>
 
@@ -101,7 +101,7 @@ on November 1, 2021.
 ## Abstract {.page_break_before}
 
 
-
+Add text here, example citation [@https://www.theguardian.com/world/2016/may/25/enduring-whiteness-of-american-journalism; @https://medium.com/ladybits-on-medium/i-analyzed-a-year-of-my-reporting-for-gender-bias-and-this-is-what-i-found-a16c31e1cdf#.44nchdhay]
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
