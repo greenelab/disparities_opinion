@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/b52ecb121d30c405bfc2def5cb0f636a876b3a21/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/b52ecb121d30c405bfc2def5cb0f636a876b3a21/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/b52ecb121d30c405bfc2def5cb0f636a876b3a21/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/b52ecb121d30c405bfc2def5cb0f636a876b3a21/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/))
 was automatically generated
-from [greenelab/disparities_opinion@b52ecb1](https://github.com/greenelab/disparities_opinion/tree/b52ecb121d30c405bfc2def5cb0f636a876b3a21)
+from [greenelab/disparities_opinion@48d0560](https://github.com/greenelab/disparities_opinion/tree/48d05603140cf1d0b89f7b4dc05e3d1e48f00723)
 on November 2, 2021.
 </em></small>
 
@@ -111,6 +111,8 @@ In award recognition, an audit of the International Society for Computational Bi
   After this study was made available to the public, the following set of honorees had the highest mean predicted probability of an honoree having an East Asian name of any previous year.
   Additionally, the nominating committee inducted the first China-based fellow into ISCB [@doi:10.1016/j.cels.2021.07.007].
 
+Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other group markers [@doi:10.1371/journal.pcbi.1003903].
+While this may be possible prospectively in some scenarios, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
 Computationally derived predictions allow for diversity audits on a scale that would not be possible otherwise.
   Numerous tools exist to algorithmically infer gender, nationality, and ethnicity information using only the feature most likely to be non-missing in a relevant dataset: an individual's name. <decide what to cite here based on how many sources we have left>
   Most of these models are highly scalable, allowing auditors to define the scope of their target group and background population as broadly as needed.
@@ -139,6 +141,7 @@ Recognizing the aforementioned shortcomings, we propose the following recommenda
 
   4. *Inform the public.* While internal audits can help institutions monitor their practices, the key goal is to remove disparities in public-facing forms of representation. 
   We believe transparency and the ability to track progress over time is the most effective method to achieve this.
+
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
