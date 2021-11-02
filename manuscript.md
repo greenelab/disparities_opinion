@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/48d05603140cf1d0b89f7b4dc05e3d1e48f00723/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/))
 was automatically generated
-from [greenelab/disparities_opinion@48d0560](https://github.com/greenelab/disparities_opinion/tree/48d05603140cf1d0b89f7b4dc05e3d1e48f00723)
+from [greenelab/disparities_opinion@471c7b0](https://github.com/greenelab/disparities_opinion/tree/471c7b067d197cadb915e13291e54ab31deb6707)
 on November 2, 2021.
 </em></small>
 
@@ -111,9 +111,14 @@ In award recognition, an audit of the International Society for Computational Bi
   After this study was made available to the public, the following set of honorees had the highest mean predicted probability of an honoree having an East Asian name of any previous year.
   Additionally, the nominating committee inducted the first China-based fellow into ISCB [@doi:10.1016/j.cels.2021.07.007].
 
+Audits can also provide evidence for specific corrective actions.
+  In a recent study of disparities in scientific journalism, it was found that people with an East Asian name origin were under-quoted and under-mentioned [@doi:10.1101/2021.06.21.449261]. 
+  However, this disparity was almost completely removed after adding the additional constraint of being on a US-affiliated paper cited in the article.
+  This implies that source gathering beyond authors in publications may be regionally biased, arguing for more regionally focused or co-located journalists.
+
 Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other group markers [@doi:10.1371/journal.pcbi.1003903].
-While this may be possible prospectively in some scenarios, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
-Computationally derived predictions allow for diversity audits on a scale that would not be possible otherwise.
+  While this may be possible prospectively in some scenarios, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
+  Computationally derived predictions allow for diversity audits on a scale that would not be possible otherwise.
   Numerous tools exist to algorithmically infer gender, nationality, and ethnicity information using only the feature most likely to be non-missing in a relevant dataset: an individual's name. <decide what to cite here based on how many sources we have left>
   Most of these models are highly scalable, allowing auditors to define the scope of their target group and background population as broadly as needed.
   
