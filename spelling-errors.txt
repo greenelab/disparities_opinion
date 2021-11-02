@@ -25,13 +25,16 @@ fugiat
 incididunt
 ipsum
 irure
+ISCB
 janeroe
 johndoe
 labore
 laboris
 laborum
+LaFrance
 Lorem
 magna
+Matias
 minoritized
 mollit
 nisi
@@ -49,6 +52,7 @@ reprehenderit
 scalable
 sed
 sint
+subpopulations
 sunt
 tempor
 ullamco
