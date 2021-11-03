@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-11-02'
+date-meta: '2021-11-03'
 author-meta:
 - John Doe
 - Jane Roe
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-11-02" />
-  <meta name="citation_publication_date" content="2021-11-02" />
+  <meta name="dc.date" content="2021-11-03" />
+  <meta name="citation_publication_date" content="2021-11-03" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/471c7b067d197cadb915e13291e54ab31deb6707/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/))
 was automatically generated
-from [greenelab/disparities_opinion@471c7b0](https://github.com/greenelab/disparities_opinion/tree/471c7b067d197cadb915e13291e54ab31deb6707)
-on November 2, 2021.
+from [greenelab/disparities_opinion@59af801](https://github.com/greenelab/disparities_opinion/tree/59af80109e15f8afbcc94844066a00f04f763298)
+on November 3, 2021.
 </em></small>
 
 ## Authors
@@ -116,21 +116,21 @@ Audits can also provide evidence for specific corrective actions.
   However, this disparity was almost completely removed after adding the additional constraint of being on a US-affiliated paper cited in the article.
   This implies that source gathering beyond authors in publications may be regionally biased, arguing for more regionally focused or co-located journalists.
 
-Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other group markers [@doi:10.1371/journal.pcbi.1003903].
-  While this may be possible prospectively in some scenarios, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
-  Computationally derived predictions allow for diversity audits on a scale that would not be possible otherwise.
-  Numerous tools exist to algorithmically infer gender, nationality, and ethnicity information using only the feature most likely to be non-missing in a relevant dataset: an individual's name. <decide what to cite here based on how many sources we have left>
+Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other identifications [@doi:10.1371/journal.pcbi.1003903].
+  While this may be possible prospectively, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
+  Computationally derived predictions allow for audits on a scale that would not be possible otherwise.
+  Numerous tools exist to algorithmically infer gender, nationality, and ethnicity information using only the feature most likely to be non-missing in a relevant dataset: an individual's name. [@doi:10.1093/pan/mpw001; @http://genderize.io/]
   Most of these models are highly scalable, allowing auditors to define the scope of their target group and background population as broadly as needed.
   
 Prediction models are not a panacea; several factors limit both their accuracy at recapitulating self-reported information and their ability to address the underlying motivating questions of diversity audits.
-  For an example of the former, gender associations of a given name can vary by culture, potentially biasing gender predictions where additional information is not available [@https://aclanthology.org/U14-1021].
-  For an example of the latter, most gender prediction models are trained on binary gender labels, which occludes assessing the representation of transgender, non-binary, and intersex individuals [@doi:10.1101/2020.10.12.336230].
+  For instance, gender associations of a given name can vary by culture, potentially biasing gender predictions where additional information is not available [@https://aclanthology.org/U14-1021].
+  Also, most gender prediction models are trained on binary gender labels, which occludes assessing the representation of transgender, non-binary, and intersex individuals [@doi:10.1101/2020.10.12.336230].
  
-Proxy predictions of ethnicity via name origin are more difficult still; the choice of categories to probabilistically predict on is non-trivial and difficult to define. 
+Proxy predictions of ethnicity via name origin are more difficult still; choosing categories to probabilistically predict on is non-trivial and difficult to define. 
   Furthermore, there is no one-to-one mapping between having a name from a linguistic group and belonging to a minoritized or underrepresented group.
   Colonialism, immigration, and structural racism have affected most groups' linguistic history and inclusion or exclusion from scientific communities in complex ways that are nearly impossible to parse from names alone. 
-  For instance, these classifiers are usually unable to distinguish if names of Hispanic origin come from the Iberian Peninsula or from Latin America [@doi:10.1016/j.cels.2021.07.007]. 
-  If a target and background population had identical probabilistic proportions of Hispanic names, but the target group primarily consisted of individuals from Spain and Portugal, underrepresentation of Latin American scientists would then go unnoticed in an exclusively computational analysis.
+  For instance, classifiers are usually unable to distinguish if names of Hispanic origin come from the Iberian Peninsula or from Latin America [@doi:10.1016/j.cels.2021.07.007]. 
+  If a target and background population had identical probabilistic proportions of Hispanic names, but the target group primarily consisted of Iberian individuals, underrepresentation of Latin American scientists would go unnoticed in an exclusively computational analysis.
 
 Recognizing the aforementioned shortcomings, we propose the following recommendations for the creation and deployment of automated auditing tools:
   1. *Transparency.* Publicly provide all tools, code, and data used in the analysis.
