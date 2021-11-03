@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/59af80109e15f8afbcc94844066a00f04f763298/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/))
 was automatically generated
-from [greenelab/disparities_opinion@59af801](https://github.com/greenelab/disparities_opinion/tree/59af80109e15f8afbcc94844066a00f04f763298)
+from [greenelab/disparities_opinion@f148685](https://github.com/greenelab/disparities_opinion/tree/f14868510be41696ebb366eb7f0d1c7e438eb6b4)
 on November 3, 2021.
 </em></small>
 
@@ -99,7 +99,7 @@ on November 3, 2021.
 
 
 Recognition by peers or the general public can greatly affect the trajectory of a scientist’s career.
-  Whether the recognition is the inclusion of their name in print as an expert, an invited lecture, or an award, each form of recognition paves the way to future accolades.
+  Any recognition--inclusion of their name in print as an expert, an invited lecture, or an award--paves the way to future accolades.
   Regardless of an individual’s merit, biases can skew which scientists are even considered for recognition.
   To combat biases, audits can identify if specific groups are being unintentionally neglected and hold the recognizing body accountable.
 
@@ -113,7 +113,7 @@ In award recognition, an audit of the International Society for Computational Bi
 
 Audits can also provide evidence for specific corrective actions.
   In a recent study of disparities in scientific journalism, it was found that people with an East Asian name origin were under-quoted and under-mentioned [@doi:10.1101/2021.06.21.449261]. 
-  However, this disparity was almost completely removed after adding the additional constraint of being on a US-affiliated paper cited in the article.
+  However, this disparity was almost completely removed by filtering down to US-affiliated papers cited.
   This implies that source gathering beyond authors in publications may be regionally biased, arguing for more regionally focused or co-located journalists.
 
 Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other identifications [@doi:10.1371/journal.pcbi.1003903].
@@ -134,13 +134,12 @@ Proxy predictions of ethnicity via name origin are more difficult still; choosin
 
 Recognizing the aforementioned shortcomings, we propose the following recommendations for the creation and deployment of automated auditing tools:
   1. *Transparency.* Publicly provide all tools, code, and data used in the analysis.
-  This is to enable public scrutiny and transparency to those being audited and those whose data you are using.
+  This enables public scrutiny and transparency to those being audited and those whose data you are using.
   If the data is private, we recommend providing de-identified or aggregated data. 
 
   2. *Individuals know best.* Self-identified demographic information should be used in preference to automated predictions.
 
   3. *Aggregates only.* Audit results should not affect individuals.
-  Gender expression and ethnicity of an individual are not for an algorithm to decide nor are they the focus of an audit. 
   The analyses must focus only on aggregate estimations and any intermediary predictions on an individual should not be used independently.
   In addition, analysts must be mindful of hidden subpopulations that may be obscured when calculating aggregate statistics.
 
