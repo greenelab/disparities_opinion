@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/f14868510be41696ebb366eb7f0d1c7e438eb6b4/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/))
 was automatically generated
-from [greenelab/disparities_opinion@f148685](https://github.com/greenelab/disparities_opinion/tree/f14868510be41696ebb366eb7f0d1c7e438eb6b4)
+from [greenelab/disparities_opinion@10ff273](https://github.com/greenelab/disparities_opinion/tree/10ff27362407cd4178276b219896d3ace4f696c7)
 on November 3, 2021.
 </em></small>
 
@@ -98,23 +98,22 @@ on November 3, 2021.
 
 
 
-Recognition by peers or the general public can greatly affect the trajectory of a scientist’s career.
-  Any recognition--inclusion of their name in print as an expert, an invited lecture, or an award--paves the way to future accolades.
-  Regardless of an individual’s merit, biases can skew which scientists are even considered for recognition.
-  To combat biases, audits can identify if specific groups are being unintentionally neglected and hold the recognizing body accountable.
+Recognition by peers or the general public can greatly affect the trajectory of a scientist’s career since each form of recognition paves the way to future accolades.
+  Regardless of an individual’s merit, biases can skew which scientists are considered for recognition.
+  Audits can combat this by identifying neglected groups and hold the recognizing body accountable.
 
-The use of auditing methods has produced evidence that they can help reduce disparities.
-  In science journalism, Adrienne LaFrance, supported by Nathan Matias, and Ed Yong performed self-audits to quantify gender disparity in their quoted or mentioned sources [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
-  While a secondary audit performed by LaFrance showed no improvement from her initial audit, Yong, through continuous self-auditing, was able to achieve gender parity in his reporting.
+Auditing efforts have shown that they can help reduce disparities.
+  In science journalism, Adrienne LaFrance, supported by Nathan Matias, and Ed Yong performed self-audits to quantify gender disparity in their sources [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
+  While a secondary audit performed by LaFrance showed no improvement, Yong, through continuous self-auditing, was able to achieve gender parity in his reporting.
 
-In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed a significant disparity against people with East Asian name origins and towards US-affiliated scientists.
-  After this study was made available to the public, the following set of honorees had the highest mean predicted probability of an honoree having an East Asian name of any previous year.
-  Additionally, the nominating committee inducted the first China-based fellow into ISCB [@doi:10.1016/j.cels.2021.07.007].
+In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed a significant under-representation of people with East Asian name origins and over-representation of US-affiliated scientists.
+  After this study was available to the public, the next honorees had the highest mean predicted probability of having an East Asian name of any previous year.
+  Additionally, the nominating committee inducted the first China-based fellow [@doi:10.1016/j.cels.2021.07.007].
 
-Audits can also provide evidence for specific corrective actions.
-  In a recent study of disparities in scientific journalism, it was found that people with an East Asian name origin were under-quoted and under-mentioned [@doi:10.1101/2021.06.21.449261]. 
-  However, this disparity was almost completely removed by filtering down to US-affiliated papers cited.
-  This implies that source gathering beyond authors in publications may be regionally biased, arguing for more regionally focused or co-located journalists.
+Audits can also provide evidence for specific actions.
+  A recent study of disparities in scientific journalism found that predicted East Asian names were under-quoted and under-mentioned [@doi:10.1101/2021.06.21.449261]. 
+  However, this disparity was almost completely removed when considering quoted or mentioned people with a US-affiliated paper cited in the article.
+  This suggests a regional bias, arguing for more regionally focused or co-located journalists.
 
 Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other identifications [@doi:10.1371/journal.pcbi.1003903].
   While this may be possible prospectively, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
@@ -134,17 +133,17 @@ Proxy predictions of ethnicity via name origin are more difficult still; choosin
 
 Recognizing the aforementioned shortcomings, we propose the following recommendations for the creation and deployment of automated auditing tools:
   1. *Transparency.* Publicly provide all tools, code, and data used in the analysis.
-  This enables public scrutiny and transparency to those being audited and those whose data you are using.
-  If the data is private, we recommend providing de-identified or aggregated data. 
+  This enables public scrutiny to those being audited and those whose data you are using.
+  For confidential data, we recommend providing de-identified or aggregated data. 
 
-  2. *Individuals know best.* Self-identified demographic information should be used in preference to automated predictions.
+  2. *Individuals know best.* Self-identified demographic information should be used in preference to algorithmic predictions.
 
   3. *Aggregates only.* Audit results should not affect individuals.
-  The analyses must focus only on aggregate estimations and any intermediary predictions on an individual should not be used independently.
-  In addition, analysts must be mindful of hidden subpopulations that may be obscured when calculating aggregate statistics.
+  Analyses must focus on aggregate estimations and any intermediary individual predictions should not be used externally.
+  In addition, analysts must be mindful of hidden subpopulations that may be obscured during aggregation.
 
-  4. *Inform the public.* While internal audits can help institutions monitor their practices, the key goal is to remove disparities in public-facing forms of representation. 
-  We believe transparency and the ability to track progress over time is the most effective method to achieve this.
+  4. *Inform the public.* While internal audits can help institutions reflect, the public must be given an opportunity to hold them accountable.
+
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
