@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/5f7013e1e4f751b44c71a98013c178837352f4d6/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/5f7013e1e4f751b44c71a98013c178837352f4d6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/5f7013e1e4f751b44c71a98013c178837352f4d6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/10ff27362407cd4178276b219896d3ace4f696c7/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/5f7013e1e4f751b44c71a98013c178837352f4d6/))
 was automatically generated
-from [greenelab/disparities_opinion@10ff273](https://github.com/greenelab/disparities_opinion/tree/10ff27362407cd4178276b219896d3ace4f696c7)
+from [greenelab/disparities_opinion@5f7013e](https://github.com/greenelab/disparities_opinion/tree/5f7013e1e4f751b44c71a98013c178837352f4d6)
 on November 3, 2021.
 </em></small>
 
@@ -103,11 +103,10 @@ Recognition by peers or the general public can greatly affect the trajectory of 
   Audits can combat this by identifying neglected groups and hold the recognizing body accountable.
 
 Auditing efforts have shown that they can help reduce disparities.
-  In science journalism, Adrienne LaFrance, supported by Nathan Matias, and Ed Yong performed self-audits to quantify gender disparity in their sources [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
-  While a secondary audit performed by LaFrance showed no improvement, Yong, through continuous self-auditing, was able to achieve gender parity in his reporting.
-
-In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed a significant under-representation of people with East Asian name origins and over-representation of US-affiliated scientists.
-  After this study was available to the public, the next honorees had the highest mean predicted probability of having an East Asian name of any previous year.
+Journalists have found performing self-audits to quantify gender-based representation in their sources can help them approach parity. [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
+  
+In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed significant under-representation of people with East Asian name origins and over-representation of US-affiliated scientists.
+  After this study was publicized, ISCB's next honorees had the highest mean predicted probability of having an East Asian name of any previous year.
   Additionally, the nominating committee inducted the first China-based fellow [@doi:10.1016/j.cels.2021.07.007].
 
 Audits can also provide evidence for specific actions.
@@ -117,7 +116,7 @@ Audits can also provide evidence for specific actions.
 
 Audits of representation would ideally be done with all individuals self-reporting gender, ethnicity, and other identifications [@doi:10.1371/journal.pcbi.1003903].
   While this may be possible prospectively, surveying for self-identification is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
-  Computationally derived predictions allow for audits on a scale that would not be possible otherwise.
+  Computationally-derived predictions allow for audits on a scale that would not be possible otherwise.
   Numerous tools exist to algorithmically infer gender, nationality, and ethnicity information using only the feature most likely to be non-missing in a relevant dataset: an individual's name. [@doi:10.1093/pan/mpw001; @http://genderize.io/]
   Most of these models are highly scalable, allowing auditors to define the scope of their target group and background population as broadly as needed.
   
@@ -143,7 +142,6 @@ Recognizing the aforementioned shortcomings, we propose the following recommenda
   In addition, analysts must be mindful of hidden subpopulations that may be obscured during aggregation.
 
   4. *Inform the public.* While internal audits can help institutions reflect, the public must be given an opportunity to hold them accountable.
-
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
