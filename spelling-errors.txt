@@ -5,6 +5,7 @@ aliquip
 amet
 anim
 aute
+binarization
 cillum
 commodo
 consectetur

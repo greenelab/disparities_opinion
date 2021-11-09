@@ -5,7 +5,7 @@ keywords:
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-11-04'
+date-meta: '2021-11-09'
 author-meta:
 - John Doe
 - Jane Roe
@@ -19,8 +19,8 @@ header-includes: |-
   <meta name="citation_title" content="Manuscript Title" />
   <meta property="og:title" content="Manuscript Title" />
   <meta property="twitter:title" content="Manuscript Title" />
-  <meta name="dc.date" content="2021-11-04" />
-  <meta name="citation_publication_date" content="2021-11-04" />
+  <meta name="dc.date" content="2021-11-09" />
+  <meta name="citation_publication_date" content="2021-11-09" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/bd1664da2e17efda977e0ebdccb6ae6f9d4fb93f/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/bd1664da2e17efda977e0ebdccb6ae6f9d4fb93f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/bd1664da2e17efda977e0ebdccb6ae6f9d4fb93f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/710fb84f093323052a962e2a051e18cd3854f2ec/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/710fb84f093323052a962e2a051e18cd3854f2ec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/710fb84f093323052a962e2a051e18cd3854f2ec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,10 +65,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/bd1664da2e17efda977e0ebdccb6ae6f9d4fb93f/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/710fb84f093323052a962e2a051e18cd3854f2ec/))
 was automatically generated
-from [greenelab/disparities_opinion@bd1664d](https://github.com/greenelab/disparities_opinion/tree/bd1664da2e17efda977e0ebdccb6ae6f9d4fb93f)
-on November 4, 2021.
+from [greenelab/disparities_opinion@710fb84](https://github.com/greenelab/disparities_opinion/tree/710fb84f093323052a962e2a051e18cd3854f2ec)
+on November 9, 2021.
 </em></small>
 
 ## Authors
@@ -99,48 +99,42 @@ on November 4, 2021.
 
 
 Recognition can greatly affect the trajectory of a scientist’s career since each form of recognition paves the way to future accolades.
-  Regardless of an individual’s merit, biases can skew which scientists are considered for recognition.
-  Audits can combat this by identifying neglected groups and hold the recognizing body accountable.
-
-Auditing efforts have shown to help reduce disparities.
-Journalists found that self-audits of gender-based representation in their articles can help them approach parity [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
-  
-In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed significant under-representation of people with predicted East Asian name origins and over-representation of US-affiliated scientists.
-  After this study was publicized, ISCB's following honorees had the highest mean predicted probability of having an East Asian name of any previous year.
-  Additionally, the nominating committee inducted their first China-based fellow [@doi:10.1016/j.cels.2021.07.007].
-
-Audits can also provide evidence for specific actions.
+  Regardless of an individual’s merit, biases can skew which scientists are recognized.
+  Audits can combat this by identifying overlooked groups and hold the recognizing body accountable.
   A recent study of disparities in scientific journalism found that predicted East Asian names were under-quoted and under-mentioned [@doi:10.1101/2021.06.21.449261].
-  Interestingly, this disparity differed across the predicted name-origins of journalists.
-  Furthermore, the differences between journalists was almost completely removed when considering people with a US-affiliated paper cited in the article.
-  This suggests a regional bias, arguing for more regionally focused journalists.
+
+Auditing efforts can reduce disparities.
+  Journalists found that self-audits of gender-based representation in their articles can help them approach parity [@https://www.theatlantic.com/technology/archive/2016/02/gender-diversity-journalism/463023/; @https://www.theatlantic.com/science/archive/2018/02/i-spent-two-years-trying-to-fix-the-gender-imbalance-in-my-stories/552404/].
+  In award recognition, an audit of the International Society for Computational Biology (ISCB) honorees revealed significant under-representation of people with predicted East Asian name origins and over-representation of US-affiliated scientists.
+  After this study was publicized, ISCB's following honorees had the highest mean predicted probability of having an East Asian name of any previous year, and the nominating committee inducted their first China-based ISCB Fellow [@doi:10.1016/j.cels.2021.07.007].
 
 Ideally, audits would only use self-reported gender, ethnicity, and other identifications [@doi:10.1371/journal.pcbi.1003903].
   While this is possible prospectively, surveying is impractical for large groups and often impossible retrospectively [@http://mediashift.org/2014/11/how-to-ethically-and-responsibly-identify-gender-in-large-datasets/].
   In contrast, computationally-derived predictions allow for large-scale audits with as broad a scope as needed.
   Numerous tools exist to algorithmically infer gender, nationality, and ethnicity using the feature most likely to be present in datasets: an individual's name [@doi:10.1093/pan/mpw001; @http://genderize.io/].
-  
+
 Prediction models are not a panacea; several factors limit both their accuracy and utility.
   For instance, gender associations of a given name can vary by culture, potentially biasing gender predictions where additional information is not available [@https://aclanthology.org/U14-1021].
-  Also, most gender prediction models are trained on binary gender labels, which occludes assessing the representation of transgender, non-binary, and intersex individuals [@doi:10.1101/2020.10.12.336230].
- 
-Proxy predictions of ethnicity via name origin are more difficult still; choosing categories to probabilistically predict on is non-trivial and difficult to discretize. 
+  Also, most gender prediction models are trained on binary gender labels, which systematically overlooks and conceptually erases the representation and contributions of transgender, non-binary, and intersex individuals [@doi:10.1101/2020.10.12.336230].
+
+Proxy predictions of ethnicity via name origin are more difficult still; choosing categories to probabilistically predict on is non-trivial and difficult to discretize.
   Furthermore, there is no one-to-one mapping between having a name from a linguistic group and belonging to a minoritized or underrepresented group.
-  Colonialism, immigration, and structural racism have affected most groups' linguistic history and inclusion or exclusion from scientific communities in complex ways that are nearly impossible to parse from names alone. 
+  Colonialism, immigration, and structural racism have affected linguistic histories and inclusion or exclusion from scientific communities in complex ways that are nearly impossible to parse from names alone.
   For instance, classifiers are usually unable to distinguish if names of Hispanic origin come from the Iberian Peninsula or from Latin America [@doi:10.1016/j.cels.2021.07.007].
 
 Recognizing the aforementioned shortcomings, we propose recommendations for the creation and deployment of automated auditing tools:
   1. *Transparency.* Publicly provide all tools, code, and data used in the analysis.
-  This enables public scrutiny to those being audited and those whose data you are using.
-  For confidential data, provide de-identified or aggregated data. 
+  This enables public scrutiny to those being audited and those whose data are used.
+  For confidential data, provide de-identified or aggregated data.
 
-  2. *Individuals know best.* Self-identified demographic information should be used in preference to algorithmic predictions.
+  2. *Individuals know best.* Self-identified demographic information should always be used in preference to algorithmic predictions.
 
   3. *Aggregates only.* Audit results should not affect individuals.
   Analyses must focus on aggregate estimations and any intermediary individual predictions should not be used externally.
   In addition, analysts must be mindful of hidden subpopulations that may be obscured during aggregation.
 
-  4. *Inform the public.* While internal audits can help institutions reflect, the public must be given an opportunity to hold them accountable.
+  4. *Inform the public.* While internal audits can help institutions reflect, researchers should inform the community of identified disparities.
+  This should include a discussion of any caveats associated with the analyses performed (e.g., a binarization of gender) and the ethical implications of such choices.
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
