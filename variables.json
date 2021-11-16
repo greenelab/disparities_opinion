@@ -2,17 +2,19 @@
   "pandoc": {
     "title": "Computational audits combat disparities in recognition",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "opinion",
+      "equity",
+      "Computational audits"
     ],
     "lang": "en-US",
-    "date-meta": "2021-11-10",
+    "date-meta": "2021-11-16",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Ariel A. Hippen*",
+      "Natalie R. Davidson*",
+      "Casey S. Greene",
+      "\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"citation_title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"og:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"twitter:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"dc.date\" content=\"2021-11-10\" />\n<meta name=\"citation_publication_date\" content=\"2021-11-10\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"citation_title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"og:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"twitter:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"dc.date\" content=\"2021-11-16\" />\n<meta name=\"citation_publication_date\" content=\"2021-11-16\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Ariel A. Hippen*\" />\n<meta name=\"citation_author_institution\" content=\"Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9336-6543\" />\n<meta name=\"twitter:creator\" content=\"@ariel_hippen\" />\n<meta name=\"citation_author\" content=\"Natalie R. Davidson*\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1745-8072\" />\n<meta name=\"twitter:creator\" content=\"@n_rose_d\" />\n<meta name=\"citation_author\" content=\"Casey S. Greene\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8713-9213\" />\n<meta name=\"twitter:creator\" content=\"@GreeneScientist\" />\n<meta name=\"citation_author\" content=\"\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,48 +24,68 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "November 10, 2021",
+    "date": "November 16, 2021",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "arielah",
+        "name": "Ariel A. Hippen*",
+        "orcid": "0000-0001-9336-6543",
+        "twitter": "ariel_hippen",
+        "email": "ariel.hippen@gmail.com",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania"
         ],
         "funders": [
-          "Grant XXXXXXXX"
+          "The Gordon and Betty Moore Foundation (GBMF 4552)"
         ],
         "affiliation_numbers": [
           1
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "github": "nrosed",
+        "name": "Natalie R. Davidson*",
+        "orcid": "0000-0002-1745-8072",
+        "twitter": "n_rose_d",
+        "email": "natalie.davidson@cuanschutz.edu",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI"
+        ],
+        "funders": [
+          "The Gordon and Betty Moore Foundation (GBMF 4552)"
         ],
         "affiliation_numbers": [
-          1,
           2
         ]
+      },
+      {
+        "github": "cgreene",
+        "name": "Casey S. Greene",
+        "orcid": "0000-0001-8713-9213",
+        "twitter": "GreeneScientist",
+        "email": "casey.s.greene@cuanschutz.edu",
+        "affiliations": [
+          "University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI"
+        ],
+        "funders": [
+          "The Gordon and Betty Moore Foundation (GBMF 4552)"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
+      },
+      {
+        "name": "\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*",
+        "affiliation_numbers": []
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania",
         "affiliation_number": 1
       },
       {
-        "affiliation": "Department of Whatever, University of Something",
+        "affiliation": "University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI",
         "affiliation_number": 2
       }
     ],
@@ -72,15 +94,15 @@
       "repo_slug": "greenelab/disparities_opinion",
       "repo_owner": "greenelab",
       "repo_name": "disparities_opinion",
-      "commit": "908c18f66f290c15e6558a7a3ed44f6236db033a",
-      "triggering_commit": "908c18f66f290c15e6558a7a3ed44f6236db033a",
-      "build_url": "https://github.com/greenelab/disparities_opinion/commit/908c18f66f290c15e6558a7a3ed44f6236db033a/checks",
-      "job_url": "https://github.com/greenelab/disparities_opinion/actions/runs/1445990751"
+      "commit": "51cb189223e9e2a5d8f5e3d1ef2bdc627856807c",
+      "triggering_commit": "51cb189223e9e2a5d8f5e3d1ef2bdc627856807c",
+      "build_url": "https://github.com/greenelab/disparities_opinion/commit/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/checks",
+      "job_url": "https://github.com/greenelab/disparities_opinion/actions/runs/1467626482"
     },
     "html_url": "https://greenelab.github.io/disparities_opinion/",
     "pdf_url": "https://greenelab.github.io/disparities_opinion/manuscript.pdf",
-    "html_url_versioned": "https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/",
-    "pdf_url_versioned": "https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/manuscript.pdf",
+    "html_url_versioned": "https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/",
+    "pdf_url_versioned": "https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "9a448fe6edb477fb98065d5b83d206b1ca489cee",
     "manuscript_stats": {

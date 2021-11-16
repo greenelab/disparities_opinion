@@ -1,14 +1,16 @@
 ---
 title: Computational audits combat disparities in recognition
 keywords:
-- markdown
-- publishing
-- manubot
+- opinion
+- equity
+- Computational audits
 lang: en-US
-date-meta: '2021-11-10'
+date-meta: '2021-11-16'
 author-meta:
-- John Doe
-- Jane Roe
+- Ariel A. Hippen*
+- Natalie R. Davidson*
+- Casey S. Greene
+- \* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -19,31 +21,36 @@ header-includes: |-
   <meta name="citation_title" content="Computational audits combat disparities in recognition" />
   <meta property="og:title" content="Computational audits combat disparities in recognition" />
   <meta property="twitter:title" content="Computational audits combat disparities in recognition" />
-  <meta name="dc.date" content="2021-11-10" />
-  <meta name="citation_publication_date" content="2021-11-10" />
+  <meta name="dc.date" content="2021-11-16" />
+  <meta name="citation_publication_date" content="2021-11-16" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Ariel A. Hippen*" />
+  <meta name="citation_author_institution" content="Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania" />
+  <meta name="citation_author_orcid" content="0000-0001-9336-6543" />
+  <meta name="twitter:creator" content="@ariel_hippen" />
+  <meta name="citation_author" content="Natalie R. Davidson*" />
+  <meta name="citation_author_institution" content="University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI" />
+  <meta name="citation_author_orcid" content="0000-0002-1745-8072" />
+  <meta name="twitter:creator" content="@n_rose_d" />
+  <meta name="citation_author" content="Casey S. Greene" />
+  <meta name="citation_author_institution" content="University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI" />
+  <meta name="citation_author_orcid" content="0000-0001-8713-9213" />
+  <meta name="twitter:creator" content="@GreeneScientist" />
+  <meta name="citation_author" content="\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*" />
   <link rel="canonical" href="https://greenelab.github.io/disparities_opinion/" />
   <meta property="og:url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta property="twitter:url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,35 +72,54 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/908c18f66f290c15e6558a7a3ed44f6236db033a/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/))
 was automatically generated
-from [greenelab/disparities_opinion@908c18f](https://github.com/greenelab/disparities_opinion/tree/908c18f66f290c15e6558a7a3ed44f6236db033a)
-on November 10, 2021.
+from [greenelab/disparities_opinion@51cb189](https://github.com/greenelab/disparities_opinion/tree/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c)
+on November 16, 2021.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Ariel A. Hippen***<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-9336-6543](https://orcid.org/0000-0001-9336-6543)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
+    [arielah](https://github.com/arielah)
     · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [ariel_hippen](https://twitter.com/ariel_hippen)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania
+     · Funded by The Gordon and Betty Moore Foundation (GBMF 4552)
   </small>
 
-+ **Jane Roe**<br>
++ **Natalie R. Davidson***<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-1745-8072](https://orcid.org/0000-0002-1745-8072)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)<br>
+    [nrosed](https://github.com/nrosed)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [n_rose_d](https://twitter.com/n_rose_d)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI
+     · Funded by The Gordon and Betty Moore Foundation (GBMF 4552)
+  </small>
+
++ **Casey S. Greene**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
+    [0000-0001-8713-9213](https://orcid.org/0000-0001-8713-9213)
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [cgreene](https://github.com/cgreene)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [GreeneScientist](https://twitter.com/GreeneScientist)<br>
+  <small>
+     University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI
+     · Funded by The Gordon and Betty Moore Foundation (GBMF 4552)
+  </small>
+
++ **\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.***<br><br>
+  <small>
   </small>
 
 
