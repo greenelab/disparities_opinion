@@ -7,14 +7,14 @@
       "Computational audits"
     ],
     "lang": "en-US",
-    "date-meta": "2021-11-16",
+    "date-meta": "2021-12-08",
     "author-meta": [
       "Ariel A. Hippen*",
       "Natalie R. Davidson*",
       "Casey S. Greene",
       "\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"citation_title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"og:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"twitter:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"dc.date\" content=\"2021-11-16\" />\n<meta name=\"citation_publication_date\" content=\"2021-11-16\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Ariel A. Hippen*\" />\n<meta name=\"citation_author_institution\" content=\"Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9336-6543\" />\n<meta name=\"twitter:creator\" content=\"@ariel_hippen\" />\n<meta name=\"citation_author\" content=\"Natalie R. Davidson*\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1745-8072\" />\n<meta name=\"twitter:creator\" content=\"@n_rose_d\" />\n<meta name=\"citation_author\" content=\"Casey S. Greene\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8713-9213\" />\n<meta name=\"twitter:creator\" content=\"@GreeneScientist\" />\n<meta name=\"citation_author\" content=\"\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"citation_title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"og:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta property=\"twitter:title\" content=\"Computational audits combat disparities in recognition\" />\n<meta name=\"dc.date\" content=\"2021-12-08\" />\n<meta name=\"citation_publication_date\" content=\"2021-12-08\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Ariel A. Hippen*\" />\n<meta name=\"citation_author_institution\" content=\"Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-9336-6543\" />\n<meta name=\"twitter:creator\" content=\"@ariel_hippen\" />\n<meta name=\"citation_author\" content=\"Natalie R. Davidson*\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1745-8072\" />\n<meta name=\"twitter:creator\" content=\"@n_rose_d\" />\n<meta name=\"citation_author\" content=\"Casey S. Greene\" />\n<meta name=\"citation_author_institution\" content=\"University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8713-9213\" />\n<meta name=\"twitter:creator\" content=\"@GreeneScientist\" />\n<meta name=\"citation_author\" content=\"\\* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*\" />\n<link rel=\"canonical\" href=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"og:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta property=\"twitter:url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://greenelab.github.io/disparities_opinion/\" />\n<meta name=\"citation_pdf_url\" content=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://greenelab.github.io/disparities_opinion/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://greenelab.github.io/disparities_opinion/v/509257b35e7c95744e6922bfd4fc0d49a1c82586/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/509257b35e7c95744e6922bfd4fc0d49a1c82586/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://greenelab.github.io/disparities_opinion/v/509257b35e7c95744e6922bfd4fc0d49a1c82586/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -24,7 +24,7 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "November 16, 2021",
+    "date": "December 8, 2021",
     "authors": [
       {
         "github": "arielah",
@@ -94,19 +94,19 @@
       "repo_slug": "greenelab/disparities_opinion",
       "repo_owner": "greenelab",
       "repo_name": "disparities_opinion",
-      "commit": "51cb189223e9e2a5d8f5e3d1ef2bdc627856807c",
-      "triggering_commit": "51cb189223e9e2a5d8f5e3d1ef2bdc627856807c",
-      "build_url": "https://github.com/greenelab/disparities_opinion/commit/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/checks",
-      "job_url": "https://github.com/greenelab/disparities_opinion/actions/runs/1467626482"
+      "commit": "509257b35e7c95744e6922bfd4fc0d49a1c82586",
+      "triggering_commit": "509257b35e7c95744e6922bfd4fc0d49a1c82586",
+      "build_url": "https://github.com/greenelab/disparities_opinion/commit/509257b35e7c95744e6922bfd4fc0d49a1c82586/checks",
+      "job_url": "https://github.com/greenelab/disparities_opinion/actions/runs/1555641942"
     },
     "html_url": "https://greenelab.github.io/disparities_opinion/",
     "pdf_url": "https://greenelab.github.io/disparities_opinion/manuscript.pdf",
-    "html_url_versioned": "https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/",
-    "pdf_url_versioned": "https://greenelab.github.io/disparities_opinion/v/51cb189223e9e2a5d8f5e3d1ef2bdc627856807c/manuscript.pdf",
+    "html_url_versioned": "https://greenelab.github.io/disparities_opinion/v/509257b35e7c95744e6922bfd4fc0d49a1c82586/",
+    "pdf_url_versioned": "https://greenelab.github.io/disparities_opinion/v/509257b35e7c95744e6922bfd4fc0d49a1c82586/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "9a448fe6edb477fb98065d5b83d206b1ca489cee",
     "manuscript_stats": {
-      "word_count": 787
+      "word_count": 902
     }
   }
 }
