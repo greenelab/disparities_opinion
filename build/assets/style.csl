@@ -15,7 +15,7 @@
   </info>
   <macro name="author">
     <names variable="author">
-      <name initialize="false" initialize-with="" et-al-min="12" et-al-use-first="10" et-al-use-last="true"/>
+      <name initialize="true" initialize-with="." delimiter=", " et-al-min="6" et-al-use-first="1" et-al-use-first="true" name-as-sort-order="all" />
       <label form="long" prefix=" (" suffix=")"/>
       <substitute>
         <names variable="editor"/>
