@@ -6,32 +6,20 @@ keywords:
   - Computational audits
 lang: en-US
 authors:
-  - github: arielah
-    name: Ariel A. Hippen*
+  - name: Ariel A. Hippen*
     orcid: 0000-0001-9336-6543
-    twitter: ariel_hippen
     email: ariel.hippen@gmail.com
     affiliations:
       - Department of Systems Pharmacology and Translational Therapeutics, Perelman School of Medicine, University of Pennsylvania
-    funders:
-      - The Gordon and Betty Moore Foundation (GBMF 4552)
-  - github: nrosed
-    name: Natalie R. Davidson*
+  - name: Natalie R. Davidson*
     orcid: 0000-0002-1745-8072
-    twitter: n_rose_d
     email: natalie.davidson@cuanschutz.edu
     affiliations:
-      - University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI
-    funders:
-      - The Gordon and Betty Moore Foundation (GBMF 4552)
-  - github: cgreene
-    name: Casey S. Greene
+      - University of Colorado Anschutz Medical Campus, Center for Health Artificial Intelligence, 1890 N Revere Ct. Aurora, CO 80045, USA
+  - name: Casey S. Greene
     orcid: 0000-0001-8713-9213
-    twitter: GreeneScientist
     email: casey.s.greene@cuanschutz.edu
     affiliations:
-      - University of Colorado School of Medicine, Aurora, Colorado, United States of America; Center for Health AI
-    funders:
-      - The Gordon and Betty Moore Foundation (GBMF 4552)
+      - University of Colorado Anschutz Medical Campus, Center for Health Artificial Intelligence, 1890 N Revere Ct. Aurora, CO 80045, USA
   - name: \* *denotes co-first authorship. Order determined by simultaneous rolls of d20s over a video call.*
 
