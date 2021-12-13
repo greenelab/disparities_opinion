@@ -14,7 +14,7 @@ export LC_ALL=en_US.UTF-8
 # Set option defaults
 CI="${CI:-false}"
 BUILD_PDF="${BUILD_PDF:-true}"
-BUILD_DOCX="${BUILD_DOCX:-false}"
+BUILD_DOCX="${BUILD_DOCX:-true}"
 BUILD_LATEX="${BUILD_LATEX:-false}"
 SPELLCHECK="${SPELLCHECK:-false}"
 # Pandoc's configuration is specified via files of option defaults
