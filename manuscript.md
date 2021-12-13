@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57/))
 was automatically generated
-from [greenelab/disparities_opinion@64edcc5](https://github.com/greenelab/disparities_opinion/tree/64edcc5e86388af8271920acebb51c5a7ecc91bc)
+from [greenelab/disparities_opinion@39c6f52](https://github.com/greenelab/disparities_opinion/tree/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57)
 on December 13, 2021.
 </em></small>
 
