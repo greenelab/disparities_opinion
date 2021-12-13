@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/greenelab/disparities_opinion/tree/gh-pages) branch hosts the contents of this directory at <https://greenelab.github.io/disparities_opinion/>.
-The permalink for this webpage version is <https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/>.
+The permalink for this webpage version is <https://greenelab.github.io/disparities_opinion/v/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://greenelab.github.io/disparities_opinion/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`64edcc5e86388af8271920acebb51c5a7ecc91bc`](https://github.com/greenelab/disparities_opinion/commit/64edcc5e86388af8271920acebb51c5a7ecc91bc).
+[`39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57`](https://github.com/greenelab/disparities_opinion/commit/39c6f52ef1c2ab5e12f7c9ab91b606d449df0d57).
