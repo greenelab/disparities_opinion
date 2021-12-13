@@ -5,7 +5,7 @@ keywords:
 - equity
 - Computational audits
 lang: en-US
-date-meta: '2021-12-09'
+date-meta: '2021-12-13'
 author-meta:
 - Ariel A. Hippen*
 - Natalie R. Davidson*
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="Computational audits combat disparities in recognition" />
   <meta property="og:title" content="Computational audits combat disparities in recognition" />
   <meta property="twitter:title" content="Computational audits combat disparities in recognition" />
-  <meta name="dc.date" content="2021-12-09" />
-  <meta name="citation_publication_date" content="2021-12-09" />
+  <meta name="dc.date" content="2021-12-13" />
+  <meta name="citation_publication_date" content="2021-12-13" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://greenelab.github.io/disparities_opinion/" />
   <meta name="citation_pdf_url" content="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://greenelab.github.io/disparities_opinion/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/b7f94c9c5fe95d596c8bea77489a656aaff90594/" />
-  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/b7f94c9c5fe95d596c8bea77489a656aaff90594/" />
-  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/b7f94c9c5fe95d596c8bea77489a656aaff90594/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/" />
+  <meta name="manubot_html_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/" />
+  <meta name="manubot_pdf_url_versioned" content="https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,10 +69,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://greenelab.github.io/disparities_opinion/v/b7f94c9c5fe95d596c8bea77489a656aaff90594/))
+([permalink](https://greenelab.github.io/disparities_opinion/v/64edcc5e86388af8271920acebb51c5a7ecc91bc/))
 was automatically generated
-from [greenelab/disparities_opinion@b7f94c9](https://github.com/greenelab/disparities_opinion/tree/b7f94c9c5fe95d596c8bea77489a656aaff90594)
-on December 9, 2021.
+from [greenelab/disparities_opinion@64edcc5](https://github.com/greenelab/disparities_opinion/tree/64edcc5e86388af8271920acebb51c5a7ecc91bc)
+on December 13, 2021.
 </em></small>
 
 ## Authors
